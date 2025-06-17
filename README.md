@@ -2,4 +2,5 @@
 
 ### Short demo
 
-<video src='https://github.com/shayansoh/prompt-wrapper/blob/main/demo.mov' width=180/>
+https://github.com/user-attachments/assets/c018c6df-ebda-45ce-8173-d76846b4c858
+
